@@ -1,5 +1,5 @@
 # 🇺🇸 dlang_module.ko
-A proof of concept of Linux kernel module written in D
+A proof of concept of a Linux kernel module written in D
 
 ---
 
