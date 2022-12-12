@@ -18,6 +18,7 @@ Actually there is no use writing kernel module in D. I made it for fun.
 ## Requirements
 
 * [LDC](https://github.com/ldc-developers/ldc) (but you can use any D compiler, just edit the Makefile)
+* GCC
 
 ## Usage
 
@@ -61,6 +62,7 @@ sudo rmmod dlang_module
 ## Требования
 
 * [LDC](https://github.com/ldc-developers/ldc) (но Вы можете использовать любой компилятор D, просто отредактируйте Makefile)
+* GCC
 
 ## Использование
 
